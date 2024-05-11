@@ -1,0 +1,1468 @@
+Curso JavaScript e HTML: desenvolva um jogo e pratique lógica de programação
+Curso Lógica de programação: mergulhe em programação com JavaScript
+Curso Lógica de programação: explore funções e listas
+Curso Lógica de programação: praticando com desafios
+Curso Git e GitHub: compartilhando e colaborando em projetos
+Curso Git e GitHub: dominando controle de versão de código
+Curso Flask: crie uma webapp com Python
+Curso Flask: avançando no desenvolvimento web com Python
+Curso Django: templates e boas práticas
+Curso Django: persistência de dados e Admin
+Curso Django: autenticação de formulários e alerta
+Curso Django: CRUD e persistência no S3
+Curso API com Django 3: Django Rest Framework
+Curso API com Django 3: Validações, buscas, filtros e deploy
+Curso API com Django 3: Versionamento, cabeçalhos e CORS
+Curso API com Django 3: Testes, segurança e lapidações
+Curso API com Django 3: Aprofundando em testes e documentação
+Curso Python Collections parte 1: listas e tuplas
+Curso Python Collections parte 2: conjuntos e dicionários
+Curso Python Brasil: validação de dados no padrão nacional
+Curso String em Python: extraindo informações de uma URL
+Curso Python e TDD: explorando testes unitários
+Curso Python: crie a sua primeira aplicação
+Curso Python: aplicando a Orientação a Objetos
+Curso Python: avance na Orientação a Objetos e consuma API
+Curso Node.js: criando sua primeira biblioteca
+Curso Node.js: continue seu projeto full stack criando uma API com Express
+Curso ORM com Node.js: desenvolvendo uma API com Sequelize e SQLite
+Curso ORM com Node.js: avançando nas funcionalidades do Sequelize
+Curso Nest.js: criando uma API Restful
+Curso Nest.js: Persistindo dados com TypeORM e PostgreSQL
+Curso Nest.js: lidando com migrações, relacionamentos ORM e erros em uma API
+Curso Nest.js: adicionando funcionalidades com Redis, JWT e logging
+Curso Node.js: criptografia e tokens JWT
+Curso Node.js: testes unitários e de integração
+Curso Node.js: lidando com buscas, filtros, paginação e erros em uma API
+Curso Node.js: criando API Rest com autenticação, perfis de usuários e permissões
+Curso Node.JS: melhorando o fluxo de desenvolvimento e integração de sua equipe
+Curso Node.js: criando uma API Rest com Express e MongoDB
+Curso Node.js: implementando testes em uma API Rest
+Curso React e Node.js: consumindo APIs no React no projeto full stack
+Curso JavaScript I: algoritmos de ordenação
+Curso Algoritmos com JavaScript II: aprofundando em algoritmos de ordenação e busca
+Curso JavaScript: programação orientada a objetos
+Curso Typescript: construção de uma API com tipagem segura
+Curso VSCode: aprendendo dicas e truques
+Curso WebSockets: implemente comunicações em tempo real com Socket.IO e MongoDB
+Curso WebSockets: implemente autenticação e avance no Socket.IO
+Curso Serverless com Node.js: aplicações eficientes na Cloud
+Curso Serverless com Node.js: integrando serviços com AWS
+Curso Serverless com Node.js: integrando serviços com mensageria
+Curso JavaScript: utilizando tipos, variáveis e funções
+Curso JavaScript: conhecendo arrays
+Curso TypeScript: desenvolvendo validações e tratando erros
+Curso JavaScript: conhecendo objetos
+Curso SOLID com TypeScript: aplicando boas práticas em orientação a objetos
+Curso Padrões de projeto com TypeScript: aprimorando uma API com arquitetura limpa
+Curso PHP: conceitos, lidando com dados, loops e mais
+Curso Avançando com PHP: Arrays, Strings, Função e Web
+Curso PHP Strings: manipulando textos com PHP
+Curso PHP: manipulando coleções com Arrays
+Curso PHP: dominando as Collections
+Curso Orientação a Objetos com PHP: Classes, métodos e atributos
+Curso Avançando com Orientação a Objetos com PHP: Herança, Polimorfismo e Interfaces
+Curso PHP Composer: Dependências, Autoload e Publicação
+Curso PHP: Programação Funcional
+Curso PHP Exceptions: tratamento de erros
+Curso PHP I/O: trabalhando com arquivos e streams
+Curso PHP e Behavior Driven Development: BDD com Behat
+Curso PHP Parallel: Processos, Threads e Channels
+Curso PHP e Clean Architecture: descomplicando arquitetura de software
+Curso PHP e Domain Driven Design: apresentando os conceitos
+Curso PHP Reativo: programação assíncrona em tempo real
+Curso PHP e PDO: trabalhando com bancos de dados
+Curso PHP na Web: lidando com segurança e API
+Curso PHP na Web: aplicando boas práticas e PSRs
+Curso PHP na Web: conhecendo o padrão MVC
+Curso PHP e MySQL: criando sua primeira aplicação web
+Curso PHP: criando sua aplicação
+Curso PHP: evolua seu conhecimento e organize seu código
+Curso Object Calisthenics: exercitando a Orientação a Objetos
+Curso Metaprogramação com PHP: API de Reflection
+Curso Swoole PHP: servidor assíncrono e corrotinas com PHP
+Curso Refatoração em PHP: boas práticas no seu código
+Curso Laravel: criando uma aplicação com MVC
+Curso Laravel: validando formulários, usando sessões e definindo relacionamentos
+Curso Laravel: transações, service container e autenticação
+Curso Laravel: e-mails, eventos assíncronos, uploads e testes
+Curso Laravel: construindo APIs
+Curso XDebug: ferramenta de debug e profiling
+Curso PHP e TDD: testes com PHPUnit
+Curso SOLID com PHP: princípios da programação orientada a objetos
+Curso Mocks em PHP: entenda os dublês de testes
+Curso Testes de integração com PHP: testando o acesso à API e ao banco de dados
+Curso Design Patterns em PHP: padrões comportamentais
+Curso Design Patterns em PHP: padrões estruturais
+Curso Design Patterns em PHP: padrões criacionais
+Curso Doctrine: conhecendo um ORM PHP
+Curso Doctrine: Migrations, relatórios e performance
+Curso Symfony Framework: cache e segurança
+Curso Symfony Framework: criando uma aplicação com MVC
+Curso Symfony Framework: formulários, validação e sessão
+Curso Symfony Framework: lidando com eventos, tradução, logs e deploy
+Curso Persistência poliglota com PHP: conectando-se a diferentes tipos de bancos de dados
+Curso Persistência poliglota com PHP: implementando buscas, mensageria, bancos de dados de grafos e colunares
+Curso Arquitetura com PHP: escalando uma aplicação monolítica
+Curso Arquitetura e Escalabilidade com PHP: garantindo a disponibilidade de uma aplicação
+Curso Java: criando a sua primeira aplicação
+Curso Java: aplicando a Orientação a Objetos
+Curso Java: trabalhando com listas e coleções de dados
+Curso Java: consumindo API, gravando arquivos e lidando com erros
+Curso Java: trabalhando com lambdas, streams e Spring Framework
+Curso Threads em Java 1: programação paralela
+Curso Threads em Java 2: programação concorrente avançada
+Curso Agilidade e TDD: um dia no desenvolvimento de software
+Curso Agilidade e DevOps: um dia no desenvolvimento de software
+Curso Microsserviços na prática: implementando com Java e Spring
+Curso Microsserviços na prática: IaC com CDK e deploy na AWS
+Curso Microsserviços na prática: mensageria com RabbitMQ
+Curso Certificação Java SE 7 Programmer I
+Curso Certificação Java SE 7 Programmer I: criando e usando Arrays
+Curso Certificação Java SE 7 Programmer I: Laços
+Curso Certificação Java SE 7 Programmer I: lidando com exceções
+Curso Certificação Java SE 7 Programmer I: métodos e encapsulamento
+Curso Certificação Java SE 7 Programmer I: Operadores
+Curso Certificação Java SE 7 Programmer I: relações entre classes
+Curso Certificação Java SE 7 Programmer I: tipos de Dados
+Curso Certificação Java SE 8 Programmer I: conteúdo além da prova
+Curso Java e JDBC: trabalhando com um banco de dados
+Curso Persistência com JPA: Hibernate
+Curso Java e JPA: consultas avançadas, performance e modelos complexos
+Curso Segurança web em Java: evitando SQL Injection, força bruta e outros ataques
+Curso Segurança web em Java parte 2: XSS, Mass Assignment e Uploads de arquivos!
+Curso Java e refatoração: melhorando códigos com boas práticas
+Curso Java: persistência de dados e consultas com Spring Data JPA
+Curso Java: criando sua primeira API e conectando ao front
+Curso Spring Boot 3: documente, teste e prepare uma API para o deploy
+Curso Spring Boot 3: aplique boas práticas e proteja uma API Rest
+Curso Spring Boot 3: desenvolva uma API Rest em Java
+Curso BDD e Java: Behavior Driven Development com Cucumber
+Curso Selenium: testes automatizados de aceitação em Java
+Curso Boas práticas de programação: melhore o código de uma API Java
+Curso Boas práticas de programação: automatizando testes com Java
+Curso Java Reflection: simplifique a conversão de objetos
+Curso Java exceções: aprenda a criar, lançar e controlar exceções
+Curso Java threads: aprenda a criar, gerenciar e aplicar com o Spring
+Curso Arquitetura Java: descomplicando a Clean Architecture
+Curso Arquitetura Java: crie uma infraestrutura escalável
+Curso Maven: gerencie dependências e faça o build de aplicações Java
+Curso Arquitetura Java: modelando aplicações com Domain-Driven Design
+Curso Testes em .NET: testes de interface usando Selenium
+Curso Testes em .NET: integração e entrega contínua com Azure DevOps
+Curso Testes em .NET: criando testes de unidade com xUnit
+Curso Testes em .NET: testando integração com banco de dados
+Curso .NET 6: criando uma web API
+Curso .NET 6: relacionando entidades
+Curso Microsserviços e .NET6: deploy na AWS
+Curso Microsserviços e .NET6: implementando a comunicação
+Curso .NET: gerenciamento de memória para otimização de performance
+Curso .NET 6 e Identity: implementando controle de usuário
+Curso ASP.NET: autenticação e autorização em APIs e aplicações web
+Curso C#: criando e distribuindo bibliotecas em .NET
+Curso C#: Paralelismo no mundo real
+Curso C#: Trabalhando com Arrays e Coleções
+Curso C#: trabalhando com arquivos
+Curso C#: criando sua primeira aplicação
+Curso C#: aplicando a Orientação a Objetos
+Curso C#: consumindo API, gravando arquivos e utilizando o LINQ
+Curso C#: dominando Orientação a Objetos
+Curso C#: aplique boas práticas de refatoração e torne seu código mais legível
+Curso C#: aprenda a criar testes limpos com boas práticas
+Curso Windows Forms com C#: Formulários, componentes e eventos
+Curso Windows Forms com C#: Menus, outros formulários e validação com login e senha
+Curso Windows Forms com C#: eventos do mouse e mais componentes
+Curso Windows Forms com C#: barra de ferramentas, trabalhando com classes e JSON
+Curso Windows Forms com C#: manipulando os dados do cliente
+Curso Windows Forms com C#: persista os dados no banco de dados
+Curso Windows Forms com C#: acesso ao banco de dados SQL Server
+Curso Selenium WebDriver e C# parte 1: testes da sua web app
+Curso Selenium WebDriver e C# parte 2: outros recursos
+Curso C#: aplique princípios SOLID
+Curso .NET: persistindo dados com Entity Framework Core
+Curso .NET: criando uma API Web com ASP.NET Core
+Curso .NET: desenvolvendo uma aplicação web com ASP.NET Core Blazor
+Curso Testes em .NET: aplicando testes de integração em APIs
+Curso Unity parte 1: criação de um jogo de sobrevivência à zumbis para Web
+Curso Unity parte 2: iluminação, interface e boas práticas
+Curso Unity parte 3: criando um chefão e refinando o jogo
+Curso Unity parte 4: Chefão, partículas e menu
+Curso Unity 2D parte 1: criando um jogo 2D
+Curso Unity 2D parte 2: adicionando efeitos visuais ao seu jogo
+Curso Unity 2D parte 3: criando um jogo multiplayer
+Curso Unity Mobile parte 1: jogos para celular com persistência de dados
+Curso Unity Mobile parte 2: interface responsiva e desempenho
+Curso Unity Mobile parte 3: aprofundando em jogos Mobile
+Curso Swagger: documentando suas APIs
+Curso Expressões Regulares: faça buscas, validações e substituições de textos
+Curso Quality Assurance: plano de testes e gestão de bugs
+Curso Robot Framework: automatizando testes no padrão BDD
+Curso Cypress: automatizando testes E2E
+Curso Elixir: Sintaxe, Programação funcional e Pattern Matching
+Curso Elixir: Recursão, Enums e formas de execução
+Curso Elixir Parte 3: Conhecendo o ecossistema Elixir
+Curso Kotlin: aplicações resilientes e assíncronas
+Curso Kotlin: preparando a aplicação para Cloud
+Curso Kotlin: desenvolvendo sua primeira aplicação
+Curso Kotlin: evoluindo a aplicação com OO
+Curso Kotlin: persistindo dados com Hibernate
+Curso Kotlin e Spring: segurança e infraestrutura
+Curso Kotlin e Spring: recursos avançados
+Curso Kotlin e Spring: testes automatizados e documentação de API
+Curso API REST com Kotlin e Spring Boot: Camada Web
+Curso API REST com Kotlin e Spring Boot: Camada de persistência
+Curso Arduino: do zero ao jogo
+Curso Arduino e Robótica: Programando um braço robô
+Curso Esp32: detector de presença com Bluetooth Low Energy
+Curso NodeMcu e Esp8266: medindo e publicando dados com MQTT
+Curso NodeMcu e Esp8266: monte um brinquedo interativo para seu Pet
+Curso Clojure: programação funcional
+Curso Clojure: coleções no dia a dia
+Curso Clojure: mutabilidade com átomos e refs
+Curso Clojure: Record, protocol e multi method
+Curso Clojure: Schemas
+Curso Clojure: explorando testes
+Curso Clojure: geradores e testes de propriedades
+Curso Go: a linguagem do Google
+Curso Go: Orientação a Objetos
+Curso Go: crie uma aplicação web
+Curso Go: desenvolvendo uma API Rest
+Curso Go: validações, testes e páginas HTML
+Curso Go e Gin: criando API rest com simplicidade
+Curso C: conhecendo a Linguagem das Linguagens
+Curso C: avançando na linguagem
+Curso C: recursos avançados da linguagem
+Curso C++: Conhecendo a linguagem e a STL
+Curso C++ e TDD: testes de unidade com Catch2
+Curso Avançando com C++: entenda melhor a linguagem
+Curso Avançando com C++: Enum, templates e mais recursos
+Curso Avançando com C++: performance e otimização
+Curso Orientação a Objetos com C++: Classes, métodos e atributos
+Curso Orientação a Objetos com C++: trabalhando com herança
+Curso HTML e CSS: praticando HTML/CSS
+Curso HTML e CSS: responsividade com mobile-first
+Curso HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags
+Curso HTML e CSS: Classes, posicionamento e Flexbox
+Curso HTML e CSS: cabeçalho, footer e variáveis CSS
+Curso HTML e CSS: trabalhando com responsividade e publicação de projetos
+Curso CSS: Flexbox e layouts responsivos
+Curso Praticando CSS: Grid e Flexbox
+Curso Bootstrap5: crie uma landing page responsiva
+Curso Bootstrap 5: novos recursos e práticas recomendadas de HTML, CSS e JavaScript
+Curso Arquitetura CSS: descomplicando os problemas
+Curso Acessibilidade web parte 2: componentes acessíveis com um pouco de JavaScript
+Curso Vetores e Animação com SVG: trabalhando com CSS e JavaScript
+Curso Tailwind CSS: estilizando a sua página com classes utilitárias
+Curso CSS: construindo layouts com Grid
+Curso SASS e CSS: estilizando um site
+Curso CSS: ajustando a acessibilidade visual em um projeto
+Curso Acessibilidade no HTML: escrevendo códigos semânticos para inclusão
+Curso Svelte: diretivas e componentes com TypeScript
+Curso SvelteKit: criando uma SPA
+Curso SvelteKit: trabalhando com store
+Curso Vue3: explorando o framework
+Curso Vue3: avançando no framework
+Curso Vue3: composition API e Vuex
+Curso Vue 3: entendendo componentes, diretivas e reatividade no framework
+Curso React: gerenciando estado com Recoil
+Curso React: escrevendo com Typescript
+Curso React: conhecendo a biblioteca React Router
+Curso React: integrando seu projeto React com APIs
+Curso React: otimizando a performance
+Curso React: testando os seus componentes
+Curso React: desenvolvendo com JavaScript
+Curso React: como os componentes funcionam
+Curso React: desenvolvendo uma biblioteca de componentes
+Curso React: desenvolvendo em React Router com JavaScript
+Curso React: gerenciamento de estados globais com Redux
+Curso React: autenticando usuários
+Curso React: obtendo dados com React Query
+Curso React: comece seu projeto full stack
+Curso React: migrando para TypeScript
+Curso React: Mutabilidade x Imutabilidade no Redux Toolkit com Immer
+Curso React JS: crie testes com Jest e Testing Library e garanta o funcionamento do Front-end
+Curso React com TailwindCSS: estilizando componentes
+Curso React: entendendo Middlewares com Redux Thunk
+Curso React: avançando em Middlewares com Listener Middleware
+Curso React: praticando React com Js
+Curso React: consumindo GraphQL com Apollo Client
+Curso React: utilizando a arquitetura Saga com Redux Saga
+Curso React: combinando Context API e Apollo Client
+Curso React: testes de integração e mocks no Front-end
+Curso React: escreva testes end to end com Cypress
+Curso React: desenvolvendo componentes customizados e acessíveis com Emotion
+Curso React: arquitetando soluções de roteamento e gestão de estado com React Router e Context API
+Curso React: testando um projeto com bibliotecas externas
+Curso React: avançando em testes e2e com Cypress
+Curso React: migrando para o Vite e implementando autenticação baseada em Token
+Curso React: criando um Design System com TailwindCSS
+Curso React: evolua o seu Design System com TailwindCSS
+Curso React: estilize componentes com Styled Components e manipule arquivos estáticos
+Curso React: eleve o nível da sua documentação no Storybook
+Curso React: versione e publique o seu Design System
+Curso React: identificando problemas de performance com o Google Lighthouse
+Curso React: construíndo componentes com JSX
+Curso React com Typescript: desenvolvendo uma área administrativa
+Curso React com Typescript: desenvolva um sistema de cadastro e autenticação
+Curso React: gerencie estados globalmente com Context API
+Curso React: configurando e estruturando projetos com Vite
+Curso React: utilizando SSR para otimizar a performance da aplicação
+Curso React Vite: monitorando aplicações com New Relic
+Curso React: acessibilidade para desenvolver interfaces inclusivas
+Curso React: criando formulários com Formik e yup
+Curso React: customizando alertas e dashboards com New Relic
+Curso React: eleve o nível de seus formulários com Zod e o React Hook Form
+Curso React: gerencie e valide formulários com o React Hook Form
+Curso Next.js: explorando o framework
+Curso Next.js: tour pelo Next.js
+Curso Next.js: autenticação e gerenciamento de Tokens
+Curso Next.js: trabalhando com um CMS
+Curso Next.js: trabalhando com arquitetura Front-end
+Curso NextJS: CI e CD para Front-end com o Github Actions
+Curso NextJS: documentando seu Front-end com o Storybook
+Curso Next.js Full stack: arquitetura de componentes Front-end
+Curso Next.js Full stack: gerenciando conteúdo em build time com File System
+Curso Next.JS: full stack com lambdas
+Curso Next.js: conheça o framework React
+Curso Next.js: construa suas aplicações com Postgres e Prisma
+Curso Next.js: gerando site estático com SSG
+Curso Next.js: construindo com Server Actions
+Curso Angular: design de componentes com acessibilidade
+Curso Angular: avançando no design de componentes com acessibilidade
+Curso Angular: testes automatizados com Jasmine e Karma
+Curso Angular: avançando com testes automatizados
+Curso Angular: formulários orientados a templates
+Curso Angular: ciclo de vida
+Curso Angular: torne sua aplicação interativa e personalizada com animações
+Curso Angular: aprimore suas técnicas de animação e crie interfaces ainda mais atraentes
+Curso Angular: componentização e design com Angular Material
+Curso Angular: componentização, formulários e interação com APIs
+Curso Angular: buscando, filtrando e exibindo dados de uma API
+Curso Angular: trabalhando com Tokens JWT na autenticação e cadastro
+Curso Angular: boas práticas de desenvolvimento com Modularização, Lazy Loading e Interceptors
+Curso Angular: construa uma aplicação web com componentes, linguagem de template e CLI
+Curso Angular: evoluindo com formulários e roteamento
+Curso Angular: comunicando-se com uma API via requisições HTTP
+Curso Angular 14: aplique os conceitos e desenvolva seu primeiro CRUD
+Curso Angular 14: evoluindo a aplicação
+Curso RxJS e Angular: programando de forma reativa
+Curso Acessibilidade no Angular: aprimorando formulários, modais e rotas
+Curso Angular: explorando testes de unidade e integração
+Curso Angular: escreva testes end-to-end com Playwright
+Curso JavaScript: programando a Orientação a Objetos
+Curso JavaScript: explorando a linguagem
+Curso JavaScript: interfaces e Herança em Orientação a Objetos
+Curso JavaScript: de padrões a uma abordagem funcional
+Curso JavaScript: validações e reconhecimento de voz
+Curso JavaScript: métodos de array
+Curso JavaScript: criando requisições
+Curso JavaScript: validando formulários
+Curso JavaScript: classes e heranças no desenvolvimento de aplicações com orientação a objetos
+Curso JavaScript: manipulando objetos
+Curso JavaScript: trabalhando com threads para requisições simultâneas
+Curso JavaScript: manipulando elementos no DOM
+Curso JS na web: CRUD com JavaScript assíncrono
+Curso JavaScript para Web: Crie páginas dinâmicas
+Curso JavaScript: consumindo e tratando dados de uma API
+Curso JavaScript: explorando a manipulação de elementos e da localStorage
+Curso TypeScript parte 1: evoluindo seu JavaScript
+Curso TypeScript parte 2: avançando na linguagem
+Curso Typescript parte 3: mais técnicas e boas práticas
+Curso TypeScript na prática: implemente um projeto completo com TypeScript e módulos
+Curso TypeScript: aplicando orientação a objetos no Front-end
+Curso TypeScript: o paradigma funcional no front-end
+Curso Node.js e terminal: dominando o ambiente de desenvolvimento front-end
+Curso Acessibilidade Web: manipulando WAI-ARIA e elementos interativos com Javascript
+Curso Acessibilidade em HTML, CSS e JavaScript: avaliando e melhorando um projeto com o NVDA
+Curso Acessibilidade: estudando com tecnologias assistivas
+Curso Webpack: trabalhando com módulos na sua webapp
+Curso HTTP: entendendo a web por baixo dos panos
+Curso WordPress: crie sites com Elementor e Figma
+Curso Wordpress: integrando responsividade, efeitos visuais e explorando plugins
+Curso Consultas SQL: avançando no SQL com MySQL
+Curso Oracle Database: projeções, seleções, joins e views
+Curso Comandos DML: manipulação de dados com MySQL
+Curso Administração do MySQL: segurança e otimização do banco
+Curso Modelagem de banco de dados relacional: entendendo SQL
+Curso Modelagem de banco de dados relacional: modelagem lógica e física
+Curso MySQL e JSON: persistindo JSON de maneira eficiente
+Curso PostgreSQL
+Curso PostgreSQL: Views, Sub-Consultas e Funções
+Curso PostgreSQL: comandos DML e DDL
+Curso PostgreSQL: desenvolva com PL/pgSQL
+Curso PostgreSQL: Triggers, transações, erros e cursores
+Curso PostgreSQL: administração e otimização do banco
+Curso SQL Server: construção do Data Warehouse
+Curso Microsoft SQL Server 2022: consultas avançadas
+Curso Microsoft SQL Server 2022: manipulando dados
+Curso Microsoft SQL Server 2022: conhecendo o T-SQL
+Curso Microsoft SQL Server 2022: performance
+Curso SQL com Oracle Database: manipule e consulte dados
+Curso SQLite online: conhecendo instruções SQL
+Curso Oracle Database: manipulando dados com comandos DML
+Curso Administração do Oracle Database: criação e gerenciamento do banco
+Curso Administração do Oracle Database: segurança e otimização do banco
+Curso Desempenho do Oracle Database: análise do ambiente
+Curso Desempenho do Oracle Database: otimização de consultas
+Curso Oracle PL/SQL: procedures, funções e exceções
+Curso Oracle PL/SQL: dominando packages
+Curso Oracle PL/SQL: cursor e exceções
+Curso Modelagem de banco de dados: entidades, relacionamentos e atributos
+Curso Modelagem de banco de dados relacional: normalização
+Curso Modelagem de banco de dados relacional: álgebra relacional
+Curso Microsoft SQL Server 2022: conhecendo SQL
+Curso Microsoft SQL Server 2022: aprofundando em procedures e funções
+Curso Microsoft SQL Server 2022: administrando o banco de dados
+Curso Data Mart e Analysis Services: entendendo a linguagem de consultas MDX
+Curso AWS Data Lake: criando uma pipeline para ingestão de dados
+Curso SQLite online: análise de dados com SQL
+Curso SQLite Online: executando consultas SQL
+Curso Realizando consultas com SQL: Joins, Views e transações
+Curso Google BigQuery: navegando na nuvem
+Curso Google BigQuery: dominando Strings e Data
+Curso Google BigQuery: dominando funções lógicas e numéricas
+Curso MySQL: conhecendo a ferramenta
+Curso MySQL: trabalhando com funções
+Curso Banco de dados MySQL: executando Procedures
+Curso Engenharia de Dados: organizando dados na AWS
+Curso Apache Beam: Data Pipeline com Python
+Curso Apache Airflow: orquestrando seu primeiro pipeline de dados
+Curso Apache Airflow: extração de dados
+Curso Apache Airflow: transformação de dados com Spark
+Curso Aprofundando no Airflow: Executores Local e Celery
+Curso Aprofundando no Airflow: Executor Kubernetes
+Curso Spark: apresentando a ferramenta
+Curso Azure Data Lake: criando um pipeline de ingestão de dados
+Curso Spark: processamento de linguagem natural
+Curso Spark: trabalhando com regressão
+Curso Spark: sistema de recomendação
+Curso Spark: criando modelos de classificação
+Curso Databricks: conhecendo a ferramenta
+Curso Databricks: trabalhando com diversos formatos e tipos de arquivos
+Curso Databricks: análise de dados
+Curso Databricks e Data Factory: criando e orquestrando pipelines na nuvem
+Curso Databricks: construindo pipelines de dados com Airflow e Azure Databricks
+Curso Python e APIs: conhecendo a biblioteca Requests
+Curso Pipeline de dados: integrando Python com MongoDB e MySQL
+Curso Pipeline de dados: combinando Python e orientação a objeto
+Curso AWS Data Lake: processando dados com AWS Glue
+Curso Data Science: analise e visualização de dados
+Curso Python para Data Science: primeiros passos
+Curso Python para Data Science: trabalhando com funções, estruturas de dados e exceções
+Curso Python: análise de dados com SQL
+Curso Pandas: conhecendo a biblioteca
+Curso Pandas: transformação e manipulação de dados
+Curso Pandas: selecionando e agrupando dados
+Curso Pandas I/O: trabalhando com diferentes formatos de arquivos
+Curso Pandas: limpeza e tratamento de dados
+Curso Data Science: análise de series temporais
+Curso Data Analysis: Google Sheets
+Curso Data Analysis: previsões com Google Sheets
+Curso Data Analysis: estatística com Google Sheets
+Curso Data Science: análises para saúde e medicina
+Curso Data Science: visualização de dados para saúde e medicina
+Curso Geopandas: trabalhando com dados geoespaciais
+Curso Reconhecimento de imagens: Twitter e Computer Vision API
+Curso Clustering: extraindo padrões de dados
+Curso MLOps: Machine Learning e APIs
+Curso MLOps: deploy de modelos
+Curso Árvores de Decisão: aprofundando em modelos de Machine Learning
+Curso Data Mesh: uma abordagem distribuída para dados
+Curso Data Mesh: dados como produtos
+Curso Data Mesh: gerenciando controle e dependências
+Curso Data Mesh: infraestrutura e planos
+Curso Oracle ADS: análise de dados na nuvem
+Curso NumPy: análise numérica eficiente com Python
+Curso Data Visualization: criando gráficos com bibliotecas Python
+Curso Data Visualization: gráficos de comparação e distribuição
+Curso Data Visualization: gráficos de composição e relacionamento
+Curso Pesquisa operacional: entendendo as bases dos métodos de otimização
+Curso IA aumentada: prevendo atrasos de voos
+Curso Otimização: encontrando soluções inteiras em programação linear
+Curso R para Data Science: conhecendo a linguagem
+Curso Otimização: aplicando a programação por restrições
+Curso Data Visualization parte 1: gráficos com uma variável
+Curso Data Visualization parte 2: gráficos com multivariáveis
+Curso Data Visualization: criação de gráficos com o Matplotlib
+Curso Data Visualization: técnicas de visualização com Google Sheets
+Curso Data Visualization: estilização de tabelas com Python
+Curso Programação em R: desenvolva dashboards online com Shiny
+Curso Oracle Analytics: visualizando dados
+Curso Streamlit: construindo um dashboard interativo
+Curso Dados geográficos: visualização de mapas com Folium
+Curso Machine Learning: classificação com SKLearn
+Curso Machine Learning: validação de modelos
+Curso Machine Learning parte 1: otimização de modelos através de hiperparâmetros
+Curso Machine Learning parte 2: otimização com exploração aleatória
+Curso Machine Learning: classificação por trás dos panos
+Curso Linguagem Natural parte 1: NLP com análise de sentimento
+Curso Linguagem Natural parte 2: continuando com a análise de sentimento
+Curso NLP: regex e modelos de linguagem
+Curso Classificação multilabel de textos: múltiplos contextos em NLP
+Curso Machine Learning: intro a sistemas de recomendação em Python
+Curso Machine Learning: lidando com dados de muitas dimensões
+Curso Machine Learning: Credit Scoring
+Curso Machine Learning com Oracle ADS: produtividade na criação de modelos
+Curso CD4ML: Entrega Contínua para Machine Learning
+Curso Deep Learning parte 1: Keras
+Curso Deep Learning parte 2: como a rede aprende
+Curso Deep Learning: previsão com Keras
+Curso Data Analytics: Machine Learning com Google Cloud Platform
+Curso Data Analytics: Machine Learning no Marketing Digital
+Curso Visão computacional: detecção de texto em placas de carro
+Curso Visão Computacional: reconhecimento de texto com OCR e OpenCV
+Curso Visão computacional: Hand Tracking com OpenCV
+Curso Visão Computacional: detecção de movimento com OpenCV
+Curso Visão Computacional: análise facial
+Curso Classificação: construindo modelos semi-supervisionados
+Curso Redes Neurais: Deep Learning com PyTorch
+Curso Redes Neurais Convolucionais: Deep Learning com PyTorch
+Curso Treinando uma Rede Neural: Deep Learning com PyTorch
+Curso Redes Neurais Recorrentes: Deep Learning com Pytorch
+Curso Corretor Ortográfico em Python: aplicando técnicas de NLP
+Curso Análise e Classificação de Faces: visão Computacional com OpenCV
+Curso Modelos preditivos em dados: detecção de fraude
+Curso Clustering aplicado: recomendando músicas com K-Means
+Curso Word2Vec: interpretação da linguagem humana com Word embedding
+Curso Word2Vec: treinamento de Word Embedding
+Curso Clusterização de dados: segmentação de clientes
+Curso MLflow: gestão do ciclo de vidas de modelos de ML
+Curso Análise de componentes principais: elaboração de rankings com o PCA
+Curso Regressão com Sklearn: desenvolvimento, previsão e otimização
+Curso Aprendizado não supervisionado: primeiras técnicas e métodos
+Curso Keras: primeiros passos em redes neurais
+Curso Continuous Delivery for Machine Learning: completando o Pipeline
+Curso Databricks: criando um sistema de recomendação
+Curso Classificação: validação de modelos e métricas de avaliação
+Curso Classificação: selecionando features
+Curso Classificação: resolvendo problemas multiclasse
+Curso Classificação: aprendendo a classificar dados com Machine Learning
+Curso Classificação: melhorando o desempenho com XGBoost
+Curso Classificação: combinando classificadores para a melhoria de performance
+Curso Classificação: otimizando modelos de machine learning
+Curso IA aumentada: aprimorando técnicas de otimização em um problema prático
+Curso IA aumentada: entendendo e praticando otimização com OR-Tools
+Curso IA aumentada: adicionando a dimensão de tempo ao problema de voos
+Curso TensorFlow: implementando um perceptron de múltiplas camadas (MLP)
+Curso Otimização: implementando a programação linear
+Curso Dash: construindo dashboards para modelos de Machine Learning
+Curso Otimização: aplicando programação não linear
+Curso Funções com Excel: operações matemáticas e filtros
+Curso Excel: simulação e análise de cenários
+Curso Análise de dados: cálculos, padrões e estratégias com Excel
+Curso Excel: domine o editor de planilhas
+Curso Excel: aprendendo lógica booleana e busca por valores
+Curso Excel: utilizando tabelas dinâmicas e gráficos dinâmicos
+Curso Excel: automatizando tarefas com Macros
+Curso Excel aplicado ao mercado financeiro: construindo dashboards e realizando consultas
+Curso Excel VBA: criando Formulários para facilitar a entrada de dados nas planilhas
+Curso Excel VBA 3: criando conexão com o Outlook Application
+Curso Excel VBA 4: criando conexão com Access
+Curso BI com Excel: criando bancos de dados com planilhas
+Curso BI com Excel: criando um Dashboard sem complicação
+Curso BI com Excel: criando Dashboard com Power Pivot
+Curso BI com Excel: conhecendo o Power Query
+Curso BI com Excel: dashboard com Power Query
+Curso BI com Excel: trabalhando com tabelas dinâmicas com Power Pivot
+Curso Recursos Visuais com Excel: explorando gráficos e formatos
+Curso VBA: automatizando tarefas diárias sem ser Dev
+Curso VBA: manipulação e limpeza de dados
+Curso VBA: fazendo um cadastro personalizado
+Curso VBA: automatizando a comparação entre planilhas e dados
+Curso Modelagem do Data Warehouse: atributos, hierarquia e indicadores
+Curso Report Analysis com Power BI: gerando relatórios empresariais
+Curso Dashboard com Tableau: conceitos essenciais
+Curso Tableau: preparação e transformação de dados
+Curso Tableau: funções e cálculos LoD
+Curso Tableau: gráficos simples e avançados
+Curso Tableau: construindo dashboards e histórias
+Curso Tableau: como trabalhar com mapas
+Curso Tableau: executando um projeto de BI
+Curso Qlik Sense: conhecendo a ferramenta
+Curso Qlik Sense: manipulando dados
+Curso Qlik Sense: analisando dados
+Curso Qlik Sense: expressões avançadas
+Curso Qlik Sense: conexões SQL
+Curso Qlik Sense: histórias e gráficos
+Curso Dashboard com Power BI: visualizando dados
+Curso Power BI Desktop: tratamento de dados no Power Query
+Curso Power BI: mergulhando na linguagem M
+Curso Power BI Desktop: construindo meu primeiro dashboard
+Curso Power BI: Report Builder
+Curso Power BI: conhecendo o serviço
+Curso Power BI: explorando recursos visuais
+Curso Power BI: modelagem de dados
+Curso Power BI: aplicando DAX ao negócio
+Curso Power BI: DAX contextos e iteração
+Curso Power BI: aprofundando na linguagem DAX
+Curso Google Data Studio: Parâmetros e Big Query
+Curso MicroStrategy Workstation: conhecendo a ferramenta
+Curso MicroStrategy Workstation: transformações e métricas
+Curso MicroStrategy Workstation: elaborando uma apresentação
+Curso Looker Studio: criando o primeiro relatório
+Curso Looker Studio: visualização de dados
+Curso Looker Studio: trabalhando com funções e filtros
+Curso Looker Studio: parâmetros e combinações de dados
+Curso Data Warehouse e Integration Services: carregando dados dimensionais
+Curso Data Warehouse e Integration Services: carregando fatos e dimensão tempo
+Curso Data Mart e Analysis Services: construindo um modelo OLAP multidimensional
+Curso Data Mart e Analysis Services: trabalhando com KPIs
+Curso Data Lake e Integration Services: construindo e carregando as dimensões
+Curso Data Lake e Integration Services: construindo e carregando o tempo e as fatos
+Curso Python e Power BI: analisando dados do mercado financeiro
+Curso Dashboards e Power BI: usando modelos OLAP multidimensionais
+Curso Power BI: aplicando a RLS
+Curso Power Apps: descobrindo o poder da automação LowCode
+Curso Power BI: criando visuais customizados
+Curso MongoDB: conhecendo um banco de dados NoSQL
+Curso MongoDB: validando dados
+Curso MongoDB: modelagem de dados
+Curso MongoDB: realizando consultas
+Curso MongoDB: segurança e disponibilidade dos dados
+Curso Datomic: um banco cronológico
+Curso Datomic Queries: avançando com o modelo e pesquisas
+Curso Datomic: Schemas e Regras
+Curso Datomic: Bindings, transaction functions e filters
+Curso Datomic: banco filtrado e histórico
+Curso Datomic: geradores, schemas e índices
+Curso BigQuery: manipulação de dados
+Curso Acesso ao Big Query: manipulação programático linguagens
+Curso MongoDB: trabalhando com armazenamento, backups e otimização de consulta
+Curso Estatística com Python: frequências e medidas
+Curso Estatística com Python: probabilidade e amostragem
+Curso Estatística com Python: testes de hipóteses
+Curso Estatística com Python: Correlação e Regressão
+Curso Data Science: testes estatísticos com Python
+Curso Regressão Linear: técnicas avançadas de modelagem
+Curso Regressão linear: testando relações e prevendo resultados
+Curso Estatística com R: crie e compare modelos estatísticos
+Curso Estatística com R: frequências e medidas
+Curso Estatística com R: probabilidade e amostragem
+Curso Estatística com R: testes de hipóteses
+Curso Estatística com R: correlação e regressão
+Curso Análise de experimentos: testes, mapas de cores e análises dos dados.
+Curso Inteligência artificial Generativa: Midjourney e ChatGPT
+Curso Aprendizagem com IA: personalizando sua rotina com ChatGPT
+Curso ChatGPT e JavaScript: construa o jogo Pong
+Curso ChatGPT: desvendando a IA em conversas e suas aplicações
+Curso ChatGPT: otimizando a qualidade dos resultados
+Curso ChatGPT e programação: aumente sua produtividade
+Curso GitHub Copilot e ChatGPT: impulsionando seu desenvolvimento com IA
+Curso GPT e Python: criando ferramentas com a API
+Curso GPT e Java: integre uma aplicação com a OpenAI
+Curso GPT e Java: desenvolva um Chatbot com IA
+Curso OpenAI: criando uma postagem para o Instagram com IA Generativa
+Curso Python e GPT: crie seu chatbot com IA
+Curso OpenAI e Python: otimize o desenvolvimento de testes com IA
+Curso Gemini e Node.js: integrando sua aplicação com a API do Google
+Curso Gemini e Node.js: desenvolva um Chatbot com a IA do Google
+Curso Excel com IA: mapeando e evoluindo processos
+Curso Excel com IA: análise de negócios com a jornada de usuário
+Curso Jetpack Compose: integrando a API da Open AI no App
+Curso Android com IA: explorando o Google ML Kit para tradução de textos
+Curso Android com IA: extraindo entidades e gerando respostas inteligentes com ML Kit
+Curso Android com IA: identificando imagens com Machine Learning
+Curso Inteligência Artificial: campanhas de Marketing Digital
+Curso Inteligência Artificial: gestão de mídias sociais
+Curso Inteligência Artificial: personalize estratégias de vendas com ChatGPT
+Curso Copywriting: criando textos persuasivos com Inteligência Artificial
+Curso IA no front-end: criando testes de unidade com a Luri
+Curso IA generativa no Front-end: trabalhando com acessibilidade, semântica e HTML
+Curso ChatGPT com Excel: automação com macros
+Curso Excel com IA: utilizando IA's como assistentes
+Curso Excel e ChatGPT: analisando dados
+Curso Excel: lógica booleana e busca por valores com IA
+Curso Machine Learning: utilizando ChatGPT como assistente
+Curso Python com IAs: acelerando a produtividade em data science
+Curso Power BI: criando relatórios com auxílio de IA
+Curso VBA e ChatGPT: potencializando as automações
+Curso Análise de dados com Python: utilizando o ChatGPT como assistente
+Curso Análise de dados com R: utilizando o ChatGPT para aumentar a produtividade
+Curso H2O Flow: otimizando a produção de modelos ML
+Curso ChatGPT com R: utilizando o ChatGPT como assistente
+Curso Vertex AI: dominando Machine Learning sem código
+Curso Apps Script: utilizando o ChatGPT como assistente
+Curso IA aplicada a Data Science: utilizando IA na construção de visualização de dados
+Curso Inteligência Artificial e UX: otimize a construção de um produto digital
+Curso Inteligência artificial e personas: acelerando o processo de criação
+Curso IA no Photoshop: criando e editando imagens
+Curso Ux Research: utilizando IA na pesquisa com usuário
+Curso Design de apresentações com IA: ferramentas, técnicas e melhores práticas
+Curso Landing Page com IA: construindo uma página web funcional
+Curso IA : criando um workshop online com Design Thinking
+Curso Design e IA: otimizando o processo criativo com IA
+Curso Entrega Contínua: confiabilidade e qualidade na implantação de software
+Curso Jenkins e Docker: Pipeline de entrega continua
+Curso The Twelve-Factor App: Metodologia para construção de aplicações robustas
+Curso Integração Contínua: mais qualidade e menos risco no desenvolvimento
+Curso Integração Contínua: testes automatizados e pipeline no Github Actions
+Curso Integração Contínua: Pipeline Docker no Github Actions
+Curso Integração Contínua: Pipeline de entrega e implementação contínua na EC2
+Curso Integração Contínua: automatize o deploy no Amazon ECS
+Curso Integração Contínua: Rollback e teste de carga
+Curso Integração Contínua: automatizando a entrega no Kubernetes
+Curso Amazon S3: manipule e armazene objetos na nuvem
+Curso Amazon API Gateway: integrando e protegendo serviços
+Curso Amazon ECS: gerencie Docker na nuvem da AWS
+Curso Amazon EC2: alta disponibilidade e escalabilidade em uma aplicação
+Curso Amazon EKS: gerenciando aplicações conteinerizadas com Kubernetes
+Curso Amazon VPC: configurando redes na AWS
+Curso Amazon Lightsail: descomplicando a nuvem
+Curso AWS SQS: mensageria e desacoplamento de sistemas
+Curso AWS Certified Cloud Practitioner: Domain 1 e 2
+Curso AWS Certified Cloud Practitioner: Domain 3 e 4
+Curso AWS Certification: Solution Architect Associate Parte 1
+Curso AWS Certification: Solutions Architect Associate Parte 2
+Curso AWS Certification: Solutions Architect Associate Parte 3
+Curso AWS Certification: Solutions Architect Associate Parte 4
+Curso AWS Certified Solutions Architect Associate: simulado comentado
+Curso AWS Storage Híbrido: soluções de armazenamento na nuvem
+Curso AWS: entendendo e controlando os custos dos serviços
+Curso Cloud Onboarding: trabalhando com os principais provedores
+Curso Cloud Onboarding: conhecendo os principais provedores parte 2
+Curso Observabilidade na AWS: utilizando o CloudWatch
+Curso Banco de dados na AWS: gerencie RDS e DynamoDB
+Curso AWS Lambda: escreva código sem se preocupar com infra
+Curso Shell Scripting parte 1: scripts de automação de tarefas
+Curso Shell Scripting parte 2: fazendo monitoramento, agendando tarefas e backup
+Curso Certificação Linux LPI Essentials: Evolution and Distributions
+Curso Certificação Linux LPI Essentials: Open Source Software and Licensing
+Curso Certificação Linux LPI Essentials: Command Line Basics
+Curso Certificação Linux LPI Essentials: using the command line to get help
+Curso Certificação Linux LPI Essentials: Redirecting I/O Redirection
+Curso Linux Onboarding: usando a CLI de uma forma rápida e prática
+Curso Linux Onboarding: localizando arquivos e conteúdos
+Curso Linux Onboarding: obtendo e tratando informações do sistema
+Curso Linux Onboarding: trabalhe com usuários, permissões e dispositivos
+Curso Terminal: aprenda comandos para executar tarefas
+Curso Observabilidade: coletando métricas de uma aplicação com Prometheus
+Curso Confiabilidade: garantindo o estado de integridade de sistemas através de logs
+Curso Monitoramento: Prometheus, Grafana e Alertmanager
+Curso Confiabilidade: centralizando logs com Grafana Loki
+Curso Rastreamento: fazendo tracing com Jaeger e OpenTelemetry
+Curso SRE: entenda a confiabilidade dos sistemas
+Curso DevOps: explorando conceitos, comandos e scripts no Linux CLI
+Curso DevOps: trabalhando com tráfego seguro em comunicações web
+Curso DevOps: trabalhando com repositórios no GitHub
+Curso DevOps: construindo e gerindo containers com o Docker
+Curso Microsserviços: padrões de projeto
+Curso Microsserviços: explorando os conceitos
+Curso Microsserviços na prática: entendendo a tomada de decisões
+Curso Google Cloud Compute Engine: escalabilidade e alta disponibilidade
+Curso Google Cloud Storage: armazenamento de objetos na Google Cloud
+Curso Google Cloud Functions: código Serverless
+Curso Google Cloud Endpoints: integrando a API
+Curso Google Cloud Serverless: crie aplicações robustas e escaláveis
+Curso Associate Cloud Engineer parte 1: a certificação do Google Cloud
+Curso Associate Cloud Engineer parte 2: a certificação do Google Cloud
+Curso Associate Cloud Engineer parte 3: a certificação do Google Cloud
+Curso Associate Cloud Engineer parte 4: A certificação do Google Cloud
+Curso Google Associate Cloud Engineer: simulado comentado
+Curso Oracle Cloud Infrastructure: implantação de uma aplicação na nuvem
+Curso Oracle Cloud Infrastructure: banco de dados e infraestrutura como código
+Curso Azure: gerencie Kubernetes com AKS e ACR
+Curso Microsoft AZ-900 parte 1: Azure Fundamentals
+Curso Microsoft AZ-900 parte 2: Azure Fundamentals
+Curso Microsoft AZ-900 parte 3: Azure Fundamentals
+Curso Microsoft AZ-900 parte 4: Azure Fundamentals
+Curso Azure Cloud: segurança e recursos avançados
+Curso Microsoft AZ-900: simulado comentado
+Curso Azure Cloud: criando um servidor com banco de dados para receber uma aplicação
+Curso Certificação AZ-900: simulado extra
+Curso Azure Functions: incorpore funções a uma loja virtual
+Curso OWASP Top 10: de Injections a Broken Access Control
+Curso OWASP Top 10: Security misconfiguration, logging e monitoramento
+Curso OWASP: padrão de verificação de segurança de aplicações
+Curso OWASP: padrão de verificação de segurança de aplicações V5 a V8
+Curso OWASP: padrão de verificação de segurança de aplicações V9 a V14
+Curso OWASP: melhorando a segurança com Clojure
+Curso Pentest: explorando vulnerabilidades em aplicações web
+Curso Pentest: investigando vulnerabilidades em um servidor de aplicações web
+Curso Pentest: combinando vulnerabilidades e acessando o Shell
+Curso Modelagem de ameaças: identifique riscos na concepção do software
+Curso Segurança de rede: firewall, WAF e SIEM
+Curso Segurança de rede: proxy reverso, SSH e DNS
+Curso Segurança de rede: manipule logs e dashboards
+Curso Desenvolvimento Seguro: estratégias de segurança para dados de entrada
+Curso Desenvolvimento Seguro: lidando com erros e logs em uma aplicação
+Curso Desenvolvimento Seguro: implementando Secret Scanning e SAST na esteira de CI
+Curso Desenvolvimento seguro com DAST e SCA: protegendo as dependências e a aplicação em execução
+Curso Docker: criando e gerenciando containers
+Curso Kubernetes: Pods, Services e ConfigMaps
+Curso Kubernetes: Deployments, Volumes e Escalabilidade
+Curso Kubernetes na Digital Ocean: gerenciando aplicações conteinerizadas
+Curso Kubernetes: prática, Helm e Cloud
+Curso Google Kubernetes Engine
+Curso Google Kubernetes Engine: avançando com GKE
+Curso Infraestrutura como código: preparando máquinas na AWS com Ansible e Terraform
+Curso Infraestrutura como código: separando ambientes na AWS com Ansible e Terraform
+Curso Infraestrutura como código: montando uma infraestrutura elástica na AWS
+Curso Infraestrutura como código: Docker e Elastic Beanstalk na AWS
+Curso Infraestrutura como código: Terraform, Docker e Elastic Container Service
+Curso Infraestrutura como código: Terraform e Kubernetes
+Curso Ansible: implementando sua infraestrutura como código
+Curso Kafka: produtores, consumidores e streams
+Curso Kafka: Fast delegate, evolução e cluster de brokers
+Curso Kafka: Batches, correlation ids e dead letters
+Curso Kafka: idempotência e garantias
+Curso Kafka e Spring: integrando aplicações e gerenciando fluxos de dados
+Curso Redes: dos conceitos iniciais à criação de uma intranet
+Curso Redes onboarding: uma perspectiva prática
+Curso Redes: construindo um projeto com VLANs, políticas de acesso e conexão com internet
+Curso Redes: implementando roteamento, DNS e IPv6
+Curso Redes Wi-Fi: criando uma rede sem fio de modo seguro
+Curso Firewall ASA: configuração de segurança:
+Curso NGINX: servidor Web, Proxy Reverso e API Gateway
+Curso NGINX Parte 2: performance, FastCGI e HTTPS
+Curso PowerShell parte 1: a linguagem de scripting moderna
+Curso PowerShell parte 2: Sessões, Jobs e Administração Remota
+Curso Windows Prompt: utilizando o CMD
+Curso Adobe XD: design visual de um site mobile
+Curso Adobe XD: refinando o visual da interface
+Curso Adobe XD: trabalhando com microinterações
+Curso Adobe XD: componentes da interface
+Curso Sketch: incrementando e melhorando a UI
+Curso Sketch: design visual de um website
+Curso Sketch: aprimore sua interface com dark mode
+Curso Figma: conhecendo a ferramenta
+Curso Figma: componentes, auto layout e máscaras
+Curso Figma: prototipagem interativa e animações
+Curso Handoff: documentando a entrega do projeto
+Curso UX: metodologias práticas para designers
+Curso UX Design: concepção do produto pós-pesquisa
+Curso UI Design: melhorando a experiência de um app com UI Patterns
+Curso UI Design: teste de usabilidade
+Curso UI Design: mergulhando nas interfaces digitais
+Curso UI Design: criando o design de um protótipo
+Curso User Interface: conceitos de UI para Product Designers
+Curso UX Writing: Arquitetura da Informação em Writing
+Curso UI Design: construindo o produto final
+Curso Design System: criando componentes e documentando
+Curso Design System: criando um produto digital
+Curso Design System: definindo estilos e tokens
+Curso Design System: documentando um design system
+Curso Design System: projetando e construindo componentes
+Curso UX Writing: escrevendo textos para usuários
+Curso UX Writing: definindo o tom e voz da sua marca
+Curso UX Writing: pesquisa e testagem em UX Writing
+Curso UX Writing: projetando um chatbot
+Curso UX Writing: redação para experiências digitais
+Curso Technical Writing: aprenda estratégias, ferramentas e boas práticas
+Curso Technical Writing: crie uma documentação do zero com DDLC
+Curso UX Research: mapeando a experiência da pessoa usuária
+Curso UX Research: avaliando interfaces com heurísticas
+Curso UX Research: pesquisa etnográfica
+Curso UX Research: metodologias e imersão em pesquisa
+Curso UX Research: entrevistando pessoas usuárias
+Curso UX Research: otimização de sites
+Curso UX Research: análise de concorrentes
+Curso UX Research: construindo o Benchmarking estratégico
+Curso UX Research: imersão em artefatos de pesquisas quantitativas
+Curso UX Research: trazendo a acessibilidade para projetos digitais
+Curso Blender 2.8: modelagem poligonal
+Curso Blender: entendendo o Box Modeling
+Curso Blender: texturizando modelos com Hand Paint
+Curso Blender: modelando com a técnica Poly by Poly
+Curso Blender: riggando e animando seu personagem
+Curso Blender: Hard Surfacing Modeling
+Curso Adobe Photoshop: tratando imagem com viés publicitário
+Curso Adobe Photoshop: lidando com imperfeições de pele
+Curso Adobe Photoshop: tons de pele e correções
+Curso Adobe Lightroom: gerenciamento e tratamento de múltiplas fotos
+Curso Adobe Lightroom: lidando com aplicações profissionais
+Curso GIMP: edição e tratamento de imagens para identidade visual
+Curso GIMP: edição e tratamento de imagens
+Curso Adobe Illustrator: desenho vetorial
+Curso Adobe Illustrator: vetorizando a partir da pen tool
+Curso Adobe Illustrator: trabalhando a partir do gradiente
+Curso Inkscape: vetorizando com a ferramenta Bezier e criando simulações
+Curso Inkscape: construindo gráficos e objetos 3D
+Curso UX Design: criando dashboard com Data Studio
+Curso UX Design: transição de carreira em áreas de tecnologia
+Curso UX Design: entenda a área da User Experience
+Curso UX Design: como construir uma persona
+Curso UX Design: criando um portfólio em UX
+Curso UX Design: elaborando projetos estratégicos
+Curso UX Design: coletando dados para o meu produto
+Curso UX Design: coletando e analisando dados com Hotjar
+Curso Design Thinking: viabilizando soluções
+Curso Portfólio em UX/UI: montando um projeto
+Curso Design emocional: tornando um produto amável
+Curso Product Design: o papel do designer de produtos
+Curso Product Design: realizando o processo de Product Discovery
+Curso Product Design: métricas e ciclo de vida do produto
+Curso UX Strategy: conhecendo o perfil da pessoa usuária
+Curso UX Strategy: visão estratégica do negócio
+Curso Ux Strategy: análise de dados em um MVP
+Curso UX Strategy: conhecendo o mercado e testando ideias
+Curso UX strategy: criando a modelagem de negócios
+Curso Ux Strategy: analisando dados com analytics
+Curso Service Design: desenvolvimento de produtos digitais com experiência de serviços
+Curso Service Design: criando o Blueprint de um serviço digital
+Curso Service Design: exploração em Design de Serviço
+Curso Service Design: a implementação na prática
+Curso Arquitetura da Informação: criando a experiência de navegação de um ambiente digital
+Curso Arquitetura da Informação: projetando para dispositivos móveis e e-commerces
+Curso Arquitetura da Informação: técnicas de pesquisa para projetar experiências digitais
+Curso Arquitetura da Informação: estratégias e acompanhamento do produto
+Curso Mídias sociais: criando vídeos para as redes
+Curso UX Design: coletando e analisando dados com Google Analytics 4
+Curso UX Design: criando um storytelling com dados
+Curso UX Design: construindo dados com tabelas
+Curso UX Design: construindo dashboard com Power BI
+Curso OBS Studio: configurando sua gravação
+Curso OBS Studio: configurando seu stream
+Curso Streamlabs: produzindo conteúdo em vídeo
+Curso Streamlabs: produzindo uma LiveStream profissional
+Curso Adobe InDesign: Trabalhando com diagramação
+Curso Adobe InDesign: trabalhando na diagramação de um eBook
+Curso InDesign: diagramação em grande escala
+Curso InDesign: produção em pequena escala
+Curso Tipografia: conhecendo o que há por trás dos tipos
+Curso Premiere: processos de colorização e tratamento de imagem
+Curso Final Cut: processos de colorização e tratamento de imagem
+Curso DaVinci Resolve: conhecendo o processo de colorização
+Curso InDesign: construindo um design editorial
+Curso InDesign: design editorial para e-book
+Curso Grids: como organizar o conteúdo visual
+Curso Adobe Photoshop e Illustrator: do vetor à composição
+Curso Adobe Photoshop: ferramentas essenciais do programa
+Curso Adobe Photoshop: composição de imagens
+Curso Photoshop: conceitue e esboce um personagem publicitário
+Curso Photoshop Mobile: editando imagens no tablet
+Curso Photoshop Camera e Express: edição de imagens
+Curso Photoshop 2022: tratando fotografias de modelos
+Curso Photoshop 2022: criando composições gráficas
+Curso Photoshop 2022: manipulando imagens
+Curso Photoshop e Illustrator: unificando a identidade visual em peças publicitárias
+Curso Adobe Illustrator: compondo peças gráficas
+Curso Adobe Illustrator Mobile: criando peças para redes sociais no Ipad
+Curso Adobe Illustrator: conhecendo a ferramenta
+Curso Adobe Illustrator: ilustrações para interfaces digitais
+Curso Adobe Illustrator: criação de ícones e fundos para interfaces digitais
+Curso Adobe Illustrator: gráficos e elementos 3D para interfaces digitais
+Curso Illustrator: acabamento final de personagem publicitário
+Curso Illustrator: criando um logo
+Curso Design Gráfico: desenvolvendo Manual de Identidade Visual
+Curso Design Gráfico: conhecimentos de impressão
+Curso Design Gráfico com Gestalt: desenvolva um projeto gráfico
+Curso Design Gráfico: desenvolvendo identidade visual
+Curso Design Gráfico: construindo os elementos de uma identidade visual
+Curso Design de apresentações: trabalhando com o Power Point
+Curso Design: entenda e conheça a área
+Curso Inkscape: desenvolvendo uma identidade visual
+Curso Inkscape: produzindo imagens para mídias sociais
+Curso Inkscape: produção gráfica
+Curso GIMP e Inkscape: criando peças para uma identidade visual
+Curso GIMP e Inkscape: criando composições para mídias sociais
+Curso Scribus: criando um manual de identidade visual
+Curso Canva: criando o material gráfico para um podcast
+Curso Canva: viabilizando soluções para artes no Instagram e Twitter
+Curso Canva: criando um currículo personalizado
+Curso Canva: editando imagens
+Curso Canva: criando apresentações
+Curso Canva: crie designs digitais para redes sociais
+Curso Canva: criando apresentações comerciais
+Curso LightRoom Mobile: tratando imagens no app
+Curso Cores no design: teoria e prática
+Curso Tipografia: conceitos e prática
+Curso Design Visual: aplicando técnicas de composição
+Curso Design Visual: estratégias para planejar e construir seu portfólio
+Curso Adobe Photoshop: tratamento de imagens
+Curso Mídias sociais: design de posts com o Canva
+Curso Mídias sociais: design em movimento com o Canva
+Curso Canva: crie um e-book com apoio da IA
+Curso Krita: criando uma animação
+Curso Krita: criando um cenário animado
+Curso Adobe After Effects: construção do personagem no Photoshop
+Curso DaVinci Resolve: Edição de vídeo
+Curso Vegas: edição de vídeo
+Curso Adobe Premiere 2020: edição de vídeo
+Curso Adobe Premiere: criação de vídeo institucional
+Curso Premiere: ritmo de edição e manipulando emoções
+Curso Adobe Premiere Rush: edite seus vídeos direto do seu smartphone
+Curso Final Cut: Edição de vídeos
+Curso Final Cut: editando matéria jornalística
+Curso YouTube: da concepção de um canal ao upload
+Curso Produção de vídeo: conceitos essenciais de uma produção audiovisual
+Curso Produção de vídeo: o que há por trás do mundo do audiovisual
+Curso Premiere Pro: edição com foco em timing e ritmo
+Curso Premiere Pro: editando um vídeo com roteiro
+Curso Premiere Pro: criando vídeos para web
+Curso Premiere Pro: como lidar e criar efeitos de vídeo
+Curso Produção de vídeos: entenda os conceitos essenciais
+Curso Canva: criando vídeos com motion graphics
+Curso Blender: utilizando o 3DCoat na etapa de retopologia
+Curso Blender: abertura de UV
+Curso Blender: criando um modelo 3D
+Curso Marmoset e Substance: Bakes de mapas para jogos
+Curso Substance Painter: texturizando um modelo 3D
+Curso Adobe After Effects: animando a partir do Element 3D
+Curso After Effects: técnicas de composição e fluxo de trabalho
+Curso After Effects: animando uma interface
+Curso After Effects: transformando dados em animações impactantes
+Curso After effects: anime personagens com Duik
+Curso Stop Motion: produção de vídeo para mídia social
+Curso Aprenda Motion Design: crie animações incríveis no After Effects
+Curso Game Design: definindo os princípios de um jogo digital
+Curso Game Design: viabilizando o jogo como produto
+Curso Game design: refinando aspectos visuais e artísticos do jogo
+Curso Game design: entenda estratégias para viabilizar e monetizar o seu jogo
+Curso Photoshop: crie um esboço de um poster de super herói
+Curso Photoshop: acabamento e entrega de um poster de super herói
+Curso Photoshop: contando histórias por meio de uma imagem
+Curso Desenho: acabamento e finalização
+Curso Desenho: esboço e composição de imagens
+Curso Desenho: aplicando esboço e composição
+Curso Desenho: entendendo volumes e iluminação
+Curso Desenho: descomplicando a perspectiva
+Curso Desenhe um corpo humano: estruturas e proporções
+Curso Perspectiva: distorções visuais
+Curso Ilustração digital: perspectiva
+Curso Ilustração digital: avançando nos conceitos de perspectiva
+Curso Ilustração digital: criando a partir da perspectiva isométrica
+Curso Ilustração digital: criando mapas com a perspectiva isométrica
+Curso Ilustração digital: criando assets para cenários de jogos isoméricos
+Curso Ilustração digital: criando cenários isométricos para games
+Curso Ilustração digital: criando personagens com perspectiva isométrica
+Curso Criação de personagem: trabalhando no concept de um personagem
+Curso Ilustração digital: anatomia expressiva
+Curso Krita: ilustração editorial
+Curso Adobe Photoshop: iluminação dentro de uma HQ
+Curso Adobe Photoshop: cor e narrativa em uma HQ
+Curso Adobe Photoshop: processo de colorização para HQ's
+Curso Colorização digital: técnicas de colorização e iluminação
+Curso Pintura digital: montando e refinando o shading
+Curso Pintura digital: pintando através do reconhecimento de valores
+Curso Pintura digital: textura e shading
+Curso Pintura digital: trabalhando na pintura dos assets
+Curso Criação de personagem: Model Sheet
+Curso Desenho de rosto: anatomia criativa
+Curso Desenho: descomplicando a estrutura humana
+Curso Desenho: descomplicando o desenho do rosto
+Curso Desenho: anatomia dos membros inferiores
+Curso Desenho: a anatomia do torso
+Curso Desenho: anatomia do braço e mão
+Curso Cores: sistemas básicos e paletas
+Curso Krita: desenvolvendo uma pintura digital
+Curso Krita: refinando o processo de pintura
+Curso História em quadrinho: princípios de uma narrativa sequencial
+Curso História em quadrinho: composição e narrativa
+Curso História em quadrinhos: desenvolvendo roteiros
+Curso História em quadrinhos: arte final
+Curso Pintura Digital parte 1: Criando para publicidade no Photoshop
+Curso Pintura Digital parte 2: Acabamento de publicidade com Photoshop. 
+Curso Fotografia: conhecendo o mundo da fotografia digital
+Curso Fotografia: criando intimidade com a pessoa retratada
+Curso Fotografia: melhorando suas imagens com a composição
+Curso Fotografia: fotografe usando seu celular
+Curso Fotografia: usando a luz a seu favor
+Curso LightRoom: usando seu celular para editar fotos
+Curso Photoshop: edite suas fotos pelo celular
+Curso Produção de áudio
+Curso Produção de Podcasts: da concepção à publicação
+Curso Edição de Podcast: da captação ao render
+Curso Persistência com Flutter: crie um app com armazenamento interno
+Curso Testes de unidade e Widget com Mocks: boas práticas no Flutter
+Curso Flutter: criando um app
+Curso Flutter Nuvigator: controle de rotas e navegação
+Curso Flutter com Web API: integrando sua app mobile
+Curso Flutter: entendendo comunicação HTTP e utilizando Web API
+Curso Flutter: gerenciamento de estados com Provider
+Curso Flutter: Streams de programação reativa com BLoC
+Curso Flutter: Firebase Crashlytics, gere relatórios de erro em tempo real
+Curso Flutter i18n: entenda abordagens de internacionalização
+Curso Flutter: Push Notifications com Firebase Cloud Messaging
+Curso Flutter: Widgets, Stateless, Stateful, Imagens e Animações
+Curso Flutter: Controller, navegação e estados
+Curso Flutter: aplicando persistência de dados
+Curso Flutter com WebAPI: integrando sua aplicação
+Curso Flutter com Web API: evoluindo na integração da aplicação
+Curso Flutter: aplicando testes de unidade, de Widget e Mocks
+Curso Flutter: estilizando e reproduzindo layouts
+Curso Flutter: aplicando constraints e implementando layouts responsivos
+Curso Flutter: implementando testes de integração
+Curso Flutter: aplicando gerenciamento de estados com MobX
+Curso Flutter: aplicando BLoC com Cubit
+Curso Flutter: praticando arquitetura e padrão MVC
+Curso Flutter com Firebase: implementando banco de dados online com Cloud Firestore
+Curso Flutter com Firebase: evoluindo a aplicação com o Cloud Firestore
+Curso Flutter com Firebase: autenticando usuários com Authentication
+Curso Flutter com Firebase: guardando arquivos na nuvem com Storage
+Curso Flutter: praticando orientação a pacotes
+Curso Flutter: praticando e adaptando arquitetura limpa
+Curso Flutter com animações: personalize seu app com animações implícitas
+Curso Flutter: aplicando integração contínua (CI)
+Curso Flutter: crie animações implícitas avançadas e microinterações
+Curso Flutter: utilize animações da biblioteca Animations
+Curso Flutter: crie animações explícitas no seu app
+Curso Flutter: utilizando o Getx para gerenciamento de estados
+Curso Flutter: automatizando o projeto com entrega contínua (CD)
+Curso Flutter: utilizando pacotes Getx para fazer integração de APIs
+Curso Flutter: implementando persistência de dados com Drift e Hive
+Curso Dart: criando e manipulando variáveis e listas
+Curso Dart: entendendo a Orientação a Objetos
+Curso Dart: lidando com Exceptions e Null Safety
+Curso Dart: sintaxe, coleções e dinamismo
+Curso Dart: entendendo assincronismo
+Curso Flutter: utilizando o Dio para realizar a comunicação com Web API
+Curso Flutter: distribuindo apps Androids com entrega contínua (CD)
+Curso Android parte 1: crie um app mobile
+Curso Android parte 2: avançando com listeners, menu e UI
+Curso Android parte 3: refinando o projeto
+Curso Android com Kotlin: personalize o seu app
+Curso Android com Kotlin: criando um app
+Curso Android com Kotlin: persistência de dados com o Room
+Curso Android com Kotlin: Migrations e relacionamento com o Room
+Curso Android com Kotlin: comunicação com Web API
+Curso Android com Kotlin: testes de unidade e Mocks
+Curso Android com Kotlin: testes instrumentados
+Curso Android Room parte 1: entendendo e aplicando a persistência de dados com ORM
+Curso Android Room parte 2: implementando operações assíncronas
+Curso Android parte 1: testes automatizados e TDD
+Curso Android parte 2: boas práticas e novos cenários de testes
+Curso Testes no Android: Mocks e integrações
+Curso Android com Espresso parte 1: teste da interface do usuário
+Curso Android com Espresso parte 2: testes de fluxos complexos
+Curso Layouts Android parte 1: criando telas com Constraint Layouts
+Curso Layouts Android parte 2: boas práticas para criação de telas
+Curso Navigation parte 1: transição de telas no Android
+Curso Navigation parte 2: novas features e reutilização de código
+Curso Android: acessando uma API Web
+Curso Android: entendendo conceitos de Arquitetura
+Curso Recycler View parte 1: listas flexíveis e performáticas
+Curso Recycler View parte 2: Listeners, animações e boas práticas
+Curso Android Fragments: reutilizando componentes visuais
+Curso Architecture Components: ViewModel, LiveData e Room
+Curso Data Binding no Android: vinculando modelo com layout
+Curso Firebase Authentication: integração com apps Android
+Curso Firebase com Android: salve os dados NoSQL no Firestore
+Curso Firebase com Android: Push Notification no Cloud Messaging
+Curso Firebase com Android: armazene imagens com o Cloud Storage
+Curso Appium: compreenda e aplique testes de interface
+Curso Jetpack Compose: criando um app android
+Curso Jetpack Compose: utilizando Lazy Layout e estados
+Curso Jetpack Compose: formulário e gerenciamento de estado
+Curso Jetpack Compose:  mantendo estados com ViewModel
+Curso Jetpack Compose: navegando entre telas com o Navigation
+Curso Jetpack Compose: armazenamento de dados internos
+Curso Jetpack Compose: Navigation com Type Safety
+Curso Jetpack Compose: criando Deep links e testando o Navigation
+Curso Jetpack Compose: utilizando Migrations e relacionamentos de tabelas com Room
+Curso Jetpack Compose: realizando a comunicação com REST API
+Curso Jetpack Compose: lidando com armazenamento de arquivos no Android
+Curso Jetpack Compose: baixando e compartilhando arquivos no Android
+Curso Swift: Entendendo a linguagem
+Curso Swift: entendendo e praticando orientação a objetos
+Curso Swift: aplicando o padrão arquitetural MVVM e boas práticas de separação de responsabilidades
+Curso SwiftUI: identificando erros em suas requisições
+Curso iOS: usando recursos nativos
+Curso IOS: autenticação, GPS e mais recursos nativos
+Curso iOS e HTTP: Web Services e sincronização offline
+Curso iOS: testes de unidade e TDD
+Curso iOS: auto layout com Constraints
+Curso iOS: construindo seu primeiro aplicativo
+Curso iOS com SwiftUI: fazendo requisições HTTP e conexão com API
+Curso iOS com SwiftUI: construindo componentes e layouts
+Curso iOS com SwiftUI: trabalhando com animações e DragGesture
+Curso iOS com SwiftUI: implementando navegação e gerenciamento de estados
+Curso iOS com SwiftUI: construindo aplicações interativas com CRUD e APIs REST
+Curso iOS com SwiftUI: construindo autenticação de usuários em uma aplicação
+Curso iOS com UIKit: fundamentos de view code
+Curso iOS com view code: requisições para APIs REST
+Curso iOS com view code: construção de layouts com tabelas
+Curso iOS com ViewCode: construa layouts e menu inferior com UICollectionView e TabBar
+Curso iOS com ViewCode: organize seu código com arquitetura MVP
+Curso iOS: organizando o app com modularização usando CocoaPods
+Curso iOS: utilizando Server Driven UI no aplicativo
+Curso Métricas Ágeis: como medir resultados em um Ambiente Ágil
+Curso Scrum: agilidade em seu projeto
+Curso Agile Coaching: difunda o Ágil nas organizações
+Curso Ágil Escalado: conheça frameworks para grandes desenvolvimentos
+Curso Lean-Ágil: expanda horizontes para a organização toda
+Curso Design Sprint 2.0: crie produtos digitais rapidamente
+Curso Transformação organizacional: Lean-Ágil além da TI
+Curso Scrum escalado: LeSS Framework
+Curso Extreme Programming: metodologia de desenvolvimento ágil de software
+Curso OKR: construindo metas ágeis
+Curso Certificação PMI-ACP: conheça a Cultura Ágil e seu potencial de aplicação
+Curso Certificação PMI-ACP: entenda a estrutura do Scrum
+Curso Certificação PMI-ACP: entenda mais sobre o Scrum
+Curso Certificação PMI-ACP: escopo, tempo e custo no Ágil
+Curso Certificação PMI-ACP: qualidade, comunicação e Recursos Humanos no Ágil
+Curso Certificação PMI-ACP: riscos, aquisições e integração no Ágil
+Curso Certificação PMI-ACP: o Kanban
+Curso Certificação PMI-ACP: aspectos humanos do Ágil
+Curso Certificação PMI-ACP: desafios na adoção do Ágil
+Curso Certificação PMI-ACP: simulado do exame
+Curso Simulado: PMI-ACP
+Curso Cultura e Métodos Ágeis: pilares para uma imersão avançada
+Curso Tópicos avançados da agilidade: aprofunde seus conhecimentos em qualidade, valor e contratações
+Curso Liderança Ágil: aprimoramento de soft skills
+Curso Gestão Ágil: explorando conceitos da agilidade
+Curso Gestão Ágil: Gestão de Processos para Agilidade
+Curso Team Building: técnicas e práticas para times ágeis
+Curso Product Management: agilize o desenvolvimento de produtos
+Curso Equipes ágeis: organizando os papéis em uma equipe
+Curso A Empresa Ágil: implemente o Business Agility nas organizações
+Curso Gestão Ágil: liderando a mudança em um ambiente de agilidade
+Curso Agile Coach: lidere a transformação nas empresas
+Curso Práticas Ágeis: construa um ambiente ágil
+Curso Escalando Equipes Ágeis: como levar a agilidade adiante na organização
+Curso Ferramentas para agilidade: visão geral sobre controle de projetos e produtos
+Curso Certificação PMP e CAPM parte 1: processos de gerenciamento de projetos
+Curso Certificação PMP e CAPM parte 2: gerenciamento de integração
+Curso Certificação PMP e CAPM parte 3: gerenciamento de escopo
+Curso Certificação PMP e CAPM parte 4: gerenciamento de tempo
+Curso Certificação PMP e CAPM parte 5: gerenciamento de custos
+Curso Certificação PMP e CAPM parte 6: gerenciamento de qualidade
+Curso Certificação PMP e CAPM parte 7: gerenciamento dos Recursos Humanos
+Curso Certificação PMP e CAPM parte 8: gerenciamento de comunicação
+Curso Certificação PMP e CAPM parte 9: gerenciamento de riscos
+Curso Certificação PMP e CAPM parte 10: gerenciamento de aquisições
+Curso Certificação PMP e CAPM parte 11: gerenciamento de partes interessadas
+Curso Certificação PMP e CAPM parte 12: código de conduta e ética
+Curso Certificação PMP e CAPM parte 13: PMBOK 6ª edição
+Curso Certificação PMP e CAPM: fundamentos do gerenciamento de projetos
+Curso Certificação PMP e CAPM: abordagens preditivas
+Curso Certificação PMP e CAPM: abordagens ágeis
+Curso Certificação PMP e CAPM: frameworks de análise de negócios
+Curso Certificação PMP e CAPM: gerenciando aspectos humanos
+Curso Certificação PMP e CAPM: desenvolvendo habilidades em negociação, colaboração e mentoria
+Curso Certificação PMP e CAPM: gerenciando processos e recursos
+Curso Certificação PMP: Gerenciando cronograma, escopo e aquisições
+Curso Hábitos na liderança: boas práticas
+Curso Gerenciamento de estresse: otimize sua liderança
+Curso Comunicação participativa: liderança eficaz e motivadora
+Curso Comunicação estratégica na liderança: como engajar e influenciar pessoas
+Curso Agilidade: como ela pode ajudar a criar um time de alta performance
+Curso Integridade corporativa: tomada de decisões éticas em ambientes empresariais
+Curso Inteligência emocional: aumente seu potencial de liderança
+Curso Liderança ambidestra: buscando inovação e resultados
+Curso Liderança: práticas de gestão e melhorias
+Curso Liderança transformacional: criando uma cultura de excelência
+Curso Mentalidade de crescimento: potencializando sua carreira
+Curso Mindset digital: técnicas e habilidades para liderança remota
+Curso Negociação para líderes: desenvolva a habilidade e consiga bons acordos
+Curso Oratória para líderes: como se comunicar profissionalmente
+Curso Psicologia positiva: liderança autêntica a partir de forças pessoais
+Curso Responsabilidade corporativa: como lidar com divergências e julgamentos
+Curso Treinamento e desenvolvimento: atue com técnicas e diretrizes
+Curso Tomada de decisão: pensar, analisar e agir
+Curso Liderança: aprendendo sobre a missão e propósito de liderar pessoas
+Curso Profissão Tech Lead: conhecendo a liderança técnica
+Curso Tech Lead: construindo práticas e rotinas de gestão
+Curso Tech Lead: gerindo pessoas e guiando para alta performance
+Curso Tech Lead: desenvolvendo habilidades de comunicação
+Curso Governança de TI: gestão de programas, projetos e produtos
+Curso Governança de TI: alinhamento estratégico
+Curso Governança de TI: Gestão de Requisitos no Contexto Ágil
+Curso Governança de TI: modelo de gestão, arquitetura e inovação
+Curso Governança de TI: Gestão de Mudanças Organizacionais e de TI
+Curso Governança de TI: a importância da Gestão do Conhecimento
+Curso Governança de TI: conheça os fundamentos da gestão de portfólios
+Curso Governança de TI: gerencie serviços e fortaleça a segurança
+Curso Gerenciamento de inovação organizacional parte 1: técnicas de ideação
+Curso Gerenciamento de inovação organizacional parte 2: aplicações práticas
+Curso Gestão de contratos: dicas e cuidados gerais
+Curso Gestão de fornecedores: seleção e contratação
+Curso Gestão de fornecedores: mobilização, acompanhamento e desmobilização
+Curso RH Ágil: estratégia ou sobrevivência
+Curso RH Ágil: desenvolvendo competências profissionais
+Curso RH Ágil: Employer Branding
+Curso RH Ágil: Employee Experience
+Curso RH na Educação Corporativa: visualizando novos paradigmas
+Curso Técnicas de facilitação de RH: interações e envolvimento de colaboradores
+Curso Princípios do trabalho em equipe: relações colaborativas
+Curso Mediação de conflitos: construa soluções efetivas
+Curso Management 3.0: gerencie o ambiente, não as pessoas
+Curso Tech Recruiter: desenvolva sua carreira
+Curso Recrutamento e seleção: uma estratégia com foco em competências
+Curso People Analytics: RH orientado a dados
+Curso Benchmarking em RH: explore boas práticas
+Curso Confiança: crie uma cultura baseada em confiança
+Curso Business Partner: atue como um RH de impacto estratégico
+Curso Delegação de tarefas: obtenha o melhor do seu time
+Curso Mentoria: desenvolvendo pessoas e compartilhando experiências
+Curso SharePoint 1: criando um site de colaboração para a equipe
+Curso SharePoint 2: montando uma estrutura de rede usando SharePoint e OneDrive
+Curso Sharepoint 3: criando listas personalizadas
+Curso SAP: entendendo suas características gerais
+Curso SAP Activate: gestão ágil em projetos SAP
+Curso KCS: implementando o serviço centrado no conhecimento
+Curso COBIT 2019: compreendendo princípios e estrutura
+Curso Análise da gestão de processos: implantando melhorias
+Curso Value Stream Mapping (VSM): conheça o mapeamento de Fluxo de Valor
+Curso Value Stream Mapping (VSM): desenhe um Mapa de Valor
+Curso Lean Six Sigma: um guia para melhoria de processos
+Curso RPA: automatize processos com ferramentas No/Low Code
+Curso Gestão de negócios: visão geral de processos de negócios
+Curso Gestão de negócios: governança, agilidade e métricas
+Curso Reengenharia e qualidade: mudando e aperfeiçoando processos
+Curso Kaizen: implemente uma estratégia de melhoria contínua
+Curso Alavancas de gestão do conhecimento: aprendizagem e produtividade
+Curso Manifesto NoProjects: desprojetização
+Curso Práticas de desprojetização: Flow Framework
+Curso Oratória: conquiste a atenção do seu público
+Curso Oratória: supere desafios com confiança
+Curso Comunicação não violenta: consciência para agir
+Curso Comunicação não violenta parte 2: mantendo a empatia
+Curso Comunicação corporativa: usando PowerPoint de forma efetiva
+Curso Negociação parte 1: práticas essenciais
+Curso Negociação parte 2: técnicas avançadas
+Curso Networking: expanda sua rede de contatos
+Curso Comunicação persuasiva: habilidades e estratégias para atrair clientes
+Curso Gerenciamento de conflitos: aplicando técnicas fundamentais
+Curso Feedback efetivo: utilizando ferramentas para comunicação transformadora
+Curso Hábitos: da produtividade às metas pessoais
+Curso Foco: trazendo mais resultados para o dia a dia
+Curso Estresse parte 1: buscando qualidade de vida
+Curso Estresse parte 2: equilibre seu estilo de vida
+Curso Produtividade: hábitos e práticas para o dia a dia
+Curso Produtividade parte 1: estratégias para o dia a dia
+Curso Produtividade parte 2: organização e prioridade
+Curso Eficácia parte 1: hábitos para sua proatividade
+Curso Eficácia parte 2: hábitos para sua proatividade
+Curso Desenvolvimento de carreira: a demanda do mercado
+Curso Desenvolvimento de carreira: como alcançar a posição desejada
+Curso Curiosidade, persistência e resiliência: da ideia à ação
+Curso Transição de carreira: um guia para a área da tecnologia
+Curso Propósito profissional: seja protagonista da sua carreira
+Curso Produtividade: construindo hábitos e práticas
+Curso Relacionamento interpessoal: aprenda a lidar melhor com você e com o outro
+Curso Relacionamento interpessoal parte 2: melhore seu potencial
+Curso Pontos fortes parte 1: descubra os seus e aprenda a gerenciá-los
+Curso Pontos fortes parte 2: habilidades e competências
+Curso Síndrome do Impostor: reconheça seu sucesso e resultados
+Curso Storytelling: visão de negócios e desenvolvimento pessoal
+Curso Inteligência emocional: práticas para o cotidiano
+Curso Comunicação assertiva: reduzindo conflitos e frustrações
+Curso Comunicação: como se expressar bem e ser compreendido
+Curso Criatividade e adequação: aprendendo e aprimorando um processo criativo
+Curso Criatividade aplicada: aprimorando o processo criativo no mercado de trabalho
+Curso Criatividade: potencialize a partir das suas motivações
+Curso Marketing Digital: explorando os conceitos
+Curso Marketing Digital para lançamentos de Infoprodutos: do conteúdo à conversão
+Curso Tipos de lançamentos: estratégias e técnicas para produtos digitais
+Curso Branding: criando uma marca forte
+Curso Rebranding: mude, transforme e recrie marcas para o século 21
+Curso Design da proposta de valor: transformando produtos e serviços
+Curso Growth Hacking: crescimento para negócios digitais
+Curso Mobile Marketing: como engajar seu cliente
+Curso Estratégia Omnichannel: aumentando suas vendas
+Curso CRM e Funil de Marketing: estratégias e funcionalidades
+Curso Fidelização de clientes: estratégias para manter relacionamentos a longo prazo
+Curso E-mail Marketing: da utilização às estratégias
+Curso E-mail Marketing: utilizando uma ferramenta de automação
+Curso Neuromarketing: estratégias e ações através do estudo da mente
+Curso WhatsApp Business: estratégias e funcionalidades para alavancar o seu negócio
+Curso Plano de Marketing Digital: como criar e coordenar estratégias
+Curso LinkedIn Page: melhorando a presença digital
+Curso Marketing Digital: análise de métricas
+Curso Google Analytics 4: implementação e relatórios
+Curso Google Search Console: configurações e relatórios
+Curso Marketing Analytics: técnicas e análise de dados
+Curso Google Analytics 4: eventos e parametrizações
+Curso Google Tag Manager: aplicação e gerenciamento de tags
+Curso Análise de métricas para aplicativos: configurações e relatórios
+Curso Personal Branding: como utilizar sua Marca Pessoal a favor da sua carreira
+Curso Aprender a aprender: técnicas para seu autodesenvolvimento
+Curso Ensino e aprendizado remoto: elabore conteúdos encantadores
+Curso Andragogia: aprimore a educação de pessoas adultas
+Curso Educação corporativa: engaje seu time na aprendizagem
+Curso SEO: otimização de sites
+Curso SEO: plataformas CMS
+Curso SEO: dominando estratégias e ferramentas para aumento de conversões
+Curso Google Ads: criando uma campanha
+Curso Google Ads: aprenda a criar campanhas na rede de display
+Curso Google Ads: campanha de Shopping
+Curso Google Ads: campanhas de vídeo para Youtube
+Curso Google Ads: campanhas para aplicativos
+Curso Google Ads: otimização da rede de pesquisa
+Curso Tráfego pago: estratégias e aplicações
+Curso Facebook Ads: criando campanhas de sucesso
+Curso Facebook Ads: campanha de vídeo e mensagem
+Curso Facebook Ads: campanhas de remarketing
+Curso Facebook Ads: campanhas para e-commerce
+Curso LinkedIn Ads: criando uma campanha
+Curso Twitter Ads: criando campanhas
+Curso TikTok Ads: funcionalidades e configurações para criar campanhas
+Curso Produção de conteúdo: estratégias, planejamento e gestão
+Curso Inbound Marketing parte 1: estratégias e ações
+Curso Inbound Marketing parte 2: processos de automação
+Curso Criação de conteúdo em vídeo: estratégias e otimizações
+Curso Business Model Canvas parte I: um modelo poderoso para o seu negócio
+Curso Business Model Canvas parte II: avance no seu modelo de negócios
+Curso Compliance: destaque sua empresa no mercado
+Curso Modelos de Gestão parte 1: componentes essenciais
+Curso BSC: aplicado na gestão de portfólios
+Curso Lean Agile Budgeting: princípios para a orçamentação eficaz na era digital
+Curso OKR: direcionando seu negócio para resultados
+Curso Transformação digital: pilares culturais
+Curso Transformação digital: alinhamento estratégico
+Curso Transformação Digital: a organização Lean-Ágil
+Curso Transformação Digital: cultura de experimentação
+Curso Transformação Digital: fluxo, DevOps e abordagem product-based
+Curso Transformação Digital: inicie a implementação do movimento
+Curso Gestão de mudanças: uma visão comportamental
+Curso Mídias Sociais: estratégias para engajar o público
+Curso Instagram para empresas: estratégia e planejamento
+Curso Marketing Viral: Os elementos que podem promover a sua ação digital
+Curso Social Listening: como ouvir sua audiência nas redes
+Curso YouTube: estratégias de sucesso para o seu negócio
+Curso Princípios da influência: persuasão com foco em negócios
+Curso Redação: boas práticas para marketing digital
+Curso Marketplace: estratégias de vendas
+Curso Social Commerce: como alavancar suas vendas nas redes sociais
+Curso Análise de métricas para e-commerce: explorando conceitos
+Curso SEO para e-commerce: estratégias para alcançar um bom posicionamento nos sites de busca
+Curso Gestão de produtos digitais: Produto vs. Projeto
+Curso Gestão de produtos digitais: Product Discovery
+Curso Gestão de produtos digitais: priorização
+Curso Gestão de produtos digitais: validação
+Curso Gestão de produtos digitais: aceleração
+Curso Roadmap: como criar e manter o mapa de produto
+Curso Product Manager: uma jornada em gestão de produto
+Curso Kanban: análises para implementação
+Curso Kanban: evolua suas entregas com métricas
+Curso Kanban: marque o ritmo com cadências
+Curso Kanban: implementação sistêmica em múltiplas equipes
+Curso Kanban: práticas avançadas incluindo gestão de portfólio
+Curso Empreendedorismo: da ideia ao plano de negócios
+Curso Empreendedorismo: abrindo sua empresa do jeito certo
+Curso Empreendedorismo para Devs: transformando ideias em negócios
+Curso Propriedade intelectual: aplicada em Startups e negócios em geral
+Curso Freelancer de sucesso: construa uma carreira autônoma
+Curso Viabilidade de Projetos & Negócios: fluxo de caixa, juros, VPL, TIR e payback
+Curso Viabilidade de Projetos & Negócios: seleção de alternativas de investimento
+Curso Startupismo: comece do jeito certo
+Curso Startupismo: Product Discovery
+Curso Startupismo: a importância do Produto Mínimo Viável
+Curso Startupismo: descubra o Product-Market Fit
+Curso Startupismo: quando e como buscar investimento
+Curso Inovação: descubra como e onde inovar
+Curso Transformação Digital: tecnologias
+Curso Inovação Aberta: táticas e ferramentas para implementação
+Curso Inovação Social e Empreendedorismo: conduza a mudança e gere impacto
+Curso Teoria U: desenvolva soluções práticas para problemas complexos
+Curso Design Thinking: inove ao focar no problema e crie soluções assertivas para seu negócio
+Curso Inovação Ágil: gerencie projetos inovadores com eficiência e agilidade
+Curso Carreira internacional: descubra como conquistar sua oportunidade no exterior
+Curso Liderança pessoal: desenvolvendo habilidades de autogestão
+Curso Gestão financeira: administre suas finanças na prática
+Curso Psicologia financeira: maximizando o potencial financeiro
+Curso Negociações de sucesso: convencendo e fechando negócios com excelência
+Curso Vendas de alta performance: vendas na era digital
+Curso Vendas de alta performance: prospecção de clientes
+Curso Vendas de alta performance: técnicas para melhorar seu aprendizado
+Curso Vendas de alta performance: entendendo a necessidade do cliente
+Curso Vendas de alta performance: perguntas poderosas
+Curso Vendas de alta performance: Pitch e dicas de negociação
+Curso Outbound Marketing: pré-vendas de alta performance
+Curso Customer Success: cultura centrada em cliente
+Curso Vendas de alta performance: gestão de carteira
+Curso Vendas de alta performance: solução e proposta
+Curso Design Thinking em vendas: conhecendo seu cliente
+Curso Vendas de alta performance: Social Selling
+Curso Jornada do cliente: aplique estratégias de engajamento no dia a dia
+Curso Elaboração de contratos: técnicas voltadas ao empreendedor
