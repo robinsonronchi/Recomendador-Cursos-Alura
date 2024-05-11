@@ -1,4 +1,4 @@
-# Projeto: Recomendador de Cursos Alura via Google Generative AI
+# Recomendador de Cursos Alura
 
 ## Objetivo do Projeto
 
