@@ -12,7 +12,7 @@ Com a vasta oferta de cursos disponíveis, identificar quais são os mais adequa
 
 1. **Leitura e Extração de Dados do Currículo**:
    - O projeto extrai o texto de um arquivo PDF de currículo armazenado em um repositório do GitHub.
-   - **Atenção:** É necessário subir seu currículo no formato PDF na pasta 'cv' no projeto do GitHub. Recomenda-se não usar espaço, acentuação ou caracteres especiais no nome do arquivo.
+   -  **🔴 Atenção:** É necessário subir seu currículo no formato PDF na pasta 'cv' no projeto do GitHub. Recomenda-se não usar espaço, acentuação ou caracteres especiais no nome do arquivo.
 
 2. **Configuração da API Google Generative AI**:
    - A API é configurada para gerar respostas baseadas em prompts detalhados que analisam o currículo e recomendam cursos.
@@ -36,13 +36,14 @@ Com a vasta oferta de cursos disponíveis, identificar quais são os mais adequa
 ## Orientações de Uso
 
 1. **Subir Currículo**:
-   - Coloque seu currículo em formato PDF na pasta `cv` do projeto no GitHub.
-   - **Recomendações para o nome do arquivo**:
-     - Não use espaços, acentuações ou caracteres especiais.
-   - Informe o nome do arquivo na variável `CV_NAME` no código para garantir que o currículo correto seja analisado.
+   - **🔴 Coloque seu currículo em formato PDF na pasta `cv` do projeto no GitHub.**
+   - **🔴 Recomendações para o nome do arquivo**:
+     - **Não use espaços, acentuações ou caracteres especiais.**
+   - **🔴 Informe o nome do arquivo na variável `CV_NAME` no código para garantir que o currículo correto seja analisado.**
 
 2. **Configuração da API**:
-   - Configure a chave da API do Google Generative AI na variável `GOOGLE_API_KEY`.
+   - **🔴 Configure a chave da API do Google Generative AI na variável `GOOGLE_API_KEY`.**
+
 
 3. **Execução do Código**:
    - O código está configurado para buscar o PDF do currículo e da lista de cursos diretamente do GitHub.
