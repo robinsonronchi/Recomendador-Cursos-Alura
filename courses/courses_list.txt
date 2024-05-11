@@ -1,3 +1,4 @@
+Lista de cursos disponíveis na plataforma Alura:
 Curso JavaScript e HTML: desenvolva um jogo e pratique lógica de programação
 Curso Lógica de programação: mergulhe em programação com JavaScript
 Curso Lógica de programação: explore funções e listas
